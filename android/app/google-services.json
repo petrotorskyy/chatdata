@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288602344770",
+    "project_id": "chatdata-aa594",
+    "storage_bucket": "chatdata-aa594.appspot.com",
+    "firebase_url": "https://chatdata-aa594-default-rtdb.europe-west1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288602344770:android:f5f950e4cc4eba20d78cdb",
+        "android_client_info": {
+          "package_name": "com.example.chatdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288602344770-thdd6c2ugihmisgqmbcq9l9aob1j2qt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatdata",
+            "certificate_hash": "862a58431852c9dee74b9b6ad3dda17228c8063e"
+          }
+        },
+        {
+          "client_id": "288602344770-pvr4pphvus8ps8304l2agj6oa7fnk5vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSPnZ4kBEsa_labFQh0BA1YejLf4pnAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288602344770-pvr4pphvus8ps8304l2agj6oa7fnk5vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
